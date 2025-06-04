@@ -76,7 +76,6 @@ Banks in Morocco receive thousands of reviews on Google Maps. These reviews cont
 | `dags/`           | Airflow DAG for automated data pipeline        |
 | `dw_reviews_project/`            | DBT models for staging, marts, and star schema |
 | `scriptnew/`   |       Python script to collect, load, transform , enrich reviews               |
-| `dashboards/`     | Screenshots or exports of dashboards           |
                          |
 | `README.md`       | Project overview                               |
 
